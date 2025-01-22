@@ -1,4 +1,4 @@
-#Show the Fun History Quiz Game title Title
+#Show the Fun History Quiz Game Title
 print(r"""
  ('-. .-.           .-')    .-') _                _  .-')                          .-')                            .-') _
 ( OO )  /          ( OO ). (  OO) )              ( \( -O )                       .(  OO)                          (  OO) )
